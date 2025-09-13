@@ -6,7 +6,7 @@ I’m Mervyn — an IT professional with 15+ years of experience across business
 * 🖥 5 years in IT infrastructure (retail sector)
 * ☁️ 1 year in cloud with focus on Azure, Azure DevOps, and Terraform
 * 🌍 Currently based in Switzerland with experience working in Belgium, Germany, and New Zealand
-* 🚀 Interested in DevOps, CI/CD, Docker, Kubernetes, AI and automation
+* 🚀 Interested in DevOps, CI/CD, Docker, Kubernetes and automation
 
 ---
 
