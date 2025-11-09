@@ -4,9 +4,9 @@ I’m Mervyn — an IT professional with 15+ years of experience across business
 
 * 💼 Background in business analysis (banking & retail) and ERP implementation/support
 * 🖥 5 years in IT infrastructure (retail sector)
-* ☁️ 1 year in cloud with focus on Azure, Azure DevOps, and Terraform
+* ☁️ 1+ year as Cloud Engineer specializing in Azure, DevOps automation, and Infrastructure as Code
 * 🌍 Currently based in Switzerland with experience working in Belgium, Germany, and New Zealand
-* 🚀 Interested in DevOps, CI/CD, Docker, Kubernetes and automation
+* 🚀 Passionate about DevOps practices, container orchestration, and cloud-native technologies
 
 ---
 
@@ -32,16 +32,27 @@ I’m Mervyn — an IT professional with 15+ years of experience across business
 
 ---
 
-## 🌱 Currently Learning
-
-* Azure DevOps Engineer Expert
-* Docker & Kubernetes (hands-on projects)
-* Python scripting for ops and automation tasks
+## 🌱 Currently Learning & Building
+* **Linux Foundation Certified System Administrator** – Taking exam December 2025
+* **Azure DevOps Engineer Expert (AZ-400)** – Scheduled December 29, 2025
+* **Kubernetes** – Building a 3-node K3s cluster on Raspberry Pi hardware with Ansible automation
+* **Python** – Automation scripts for cloud operations and infrastructure tasks
+* **AI/ML** – Preparing for Azure AI certifications (AI-900, AI-102)
 
 ---
 
 ## 📂 Featured Projects
 
-* [Lab Repo](https://github.com/mervynvangompel/lab) – Python, Linux, Kubernetes, and Terraform playground
+### 🚀 [Raspberry Pi K3s Cluster](https://github.com/mervynvangompel/raspi-k8s-cluster) *(Coming Soon)*
+3-node Kubernetes cluster automated with Ansible. Infrastructure as Code for bare-metal K8s deployment.
+**Tech:** K3s, Ansible, Raspberry Pi, Linux
+
+### 🧪 [Lab Repo](https://github.com/mervynvangompel/lab)
+Experimentation space for Python, Linux, Kubernetes, and Terraform learning.
+**Tech:** Python, Terraform, Kubernetes, Bash
+
+### ☁️ [Azure IaC Templates](https://github.com/mervynvangompel/azure-terraform-modules) *(Planned)*
+Reusable Terraform modules for common Azure patterns.
+**Tech:** Terraform, Azure, Infrastructure as Code
 
 ---
